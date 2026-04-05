@@ -6,7 +6,7 @@ In Progress — Prototype 1 complete, embedded control in development
 
 How It Works
 Finger movement is driven by a wire-pull (tendon) actuation mechanism.
-Each finger is pulled into flexion by a wire routed through the hand structure.
+Each finger is pulled into flexion by a wire routed through the hand structure. 
 The next phase integrates an Arduino-based controller with computer vision (OpenCV)
 to translate hand gestures into servo-actuated finger movements.
 
