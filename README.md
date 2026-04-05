@@ -27,6 +27,6 @@ Tools Used
 - OpenCV — in development
 
  Files
-- `/cad` — Inventor part and assembly files
-- `/stl` — Print-ready STL files
+-`Prosthetic hand Project/` — Inventor assembly and part files
+- `prosthetic hand ipt/` — Individual IPT part files
 - `/arduino` — Control code (coming soon)
